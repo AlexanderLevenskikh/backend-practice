@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="ArrayCreationTasks.cs" t="Include" />
+      <e p="BenchmarkTask.cs" t="Include" />
+      <e p="BenchmarkTests.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ChartBuilder.cs" t="Include" />
+      <e p="ChartData.cs" t="Include" />
+      <e p="Constants.cs" t="Include" />
+      <e p="ExperimentResult.cs" t="Include" />
+      <e p="ExperimentsTask.cs" t="Include" />
+      <e p="Generated.cs" t="Include" />
+      <e p="IBenchmark.cs" t="Include" />
+      <e p="ITask.cs" t="Include" />
+      <e p="MethodCallTasks.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="StructBenchmarking.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

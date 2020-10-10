@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\bin\Debug\HotelAccounting.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\bin\Debug\HotelAccounting.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\bin\Debug\HotelAccounting.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting.g.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\HotelAccounting.csproj\obj\Debug\HotelAccounting.pdb

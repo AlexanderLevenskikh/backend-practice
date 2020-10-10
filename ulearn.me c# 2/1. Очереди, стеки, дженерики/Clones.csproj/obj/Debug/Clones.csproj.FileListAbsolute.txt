@@ -1,0 +1,9 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\bin\Debug\Clones.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\bin\Debug\Clones.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\bin\Debug\Clones.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\obj\Debug\Clones.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\obj\Debug\Clones.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\obj\Debug\Clones.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\obj\Debug\Clones.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\Очереди, стеки, дженерики\Clones.csproj\obj\Debug\Clones.pdb

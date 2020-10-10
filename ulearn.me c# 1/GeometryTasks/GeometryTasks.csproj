@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.7.1" />
+      <PackageReference Include="NUnit" Version="3.12.0" />
+      <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="ReadOnlyVectorTask\Class1.cs">
+        <Link>ReadOnlyVector\Class1.cs</Link>
+      </Compile>
+      <Compile Update="ReadOnlyVectorTask\Properties\AssemblyInfo.cs">
+        <Link>ReadOnlyVector\Properties\AssemblyInfo.cs</Link>
+      </Compile>
+    </ItemGroup>
+
+</Project>

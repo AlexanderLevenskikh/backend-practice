@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj" t="IncludeRecursive">
+      <e p="Animal.cs" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Cat.cs" t="Include" />
+      <e p="Document.cs" t="Include" />
+      <e p="GhostsTask.cs" t="Include" />
+      <e p="GhostsTest.cs" t="Include" />
+      <e p="hashes-ghosts.csproj" t="IncludeRecursive" />
+      <e p="IFactory.cs" t="Include" />
+      <e p="nunitlite.dll" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Robot.cs" t="Include" />
+      <e p="Segment.cs" t="Include" />
+      <e p="Vector.cs" t="Include" />
+    </e>
+  </component>
+</project>

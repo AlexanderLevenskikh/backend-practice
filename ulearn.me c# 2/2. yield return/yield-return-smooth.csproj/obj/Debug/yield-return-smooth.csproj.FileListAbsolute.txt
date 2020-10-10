@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\bin\Debug\yield.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\bin\Debug\yield.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\bin\Debug\yield.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\bin\Debug\ZedGraph.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\obj\Debug\yield.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj\obj\Debug\yield.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\bin\Debug\Manipulator.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\bin\Debug\Manipulator.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\bin\Debug\Manipulator.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\obj\Debug\manipulator.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\obj\Debug\manipulator.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\obj\Debug\Manipulator.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\manipulator.csproj\obj\Debug\Manipulator.pdb

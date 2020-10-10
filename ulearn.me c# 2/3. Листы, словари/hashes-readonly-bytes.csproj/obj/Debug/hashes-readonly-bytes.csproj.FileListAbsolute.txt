@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\bin\Debug\readonly-bytes.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\bin\Debug\readonly-bytes.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\bin\Debug\readonly-bytes.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\obj\Debug\hashes-readonly-bytes.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\obj\Debug\hashes-readonly-bytes.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\obj\Debug\hashes-readonly-bytes.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\obj\Debug\readonly-bytes.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-readonly-bytes.csproj\obj\Debug\readonly-bytes.pdb

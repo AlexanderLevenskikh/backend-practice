@@ -1,0 +1,8 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\bin\Debug\eurobot.bmp
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\bin\Debug\Recognizer.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\bin\Debug\Recognizer.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\bin\Debug\Recognizer.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\obj\Debug\Recognizer.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\Image.csproj\obj\Debug\Recognizer.pdb

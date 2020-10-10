@@ -1,0 +1,13 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\bin\Debug\StructBenchmarking.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\bin\Debug\StructBenchmarking.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\bin\Debug\StructBenchmarking.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\bin\Debug\ZedGraph.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\bin\Debug\ZedGraph.xml
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\StructBenchmarking.csproj\obj\Debug\StructBenchmarking.pdb

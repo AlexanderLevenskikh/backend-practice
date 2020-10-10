@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\2. yield return\yield-return-smooth.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DataPoint.cs" t="Include" />
+      <e p="DataSource.cs" t="Include" />
+      <e p="ExpSmoothingTask.cs" t="Include" />
+      <e p="ExpSmoothingTests.cs" t="Include" />
+      <e p="Factory.cs" t="Include" />
+      <e p="IDataAnalyzer.cs" t="Include" />
+      <e p="MovingAverageTask.cs" t="Include" />
+      <e p="MovingAverageTests.cs" t="Include" />
+      <e p="MovingMaxTask.cs" t="Include" />
+      <e p="MovingMaxTests.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include" />
+      <e p="yield-return-smooth.csproj" t="IncludeRecursive" />
+      <e p="ZedGraph.dll" t="Include" />
+    </e>
+  </component>
+</project>

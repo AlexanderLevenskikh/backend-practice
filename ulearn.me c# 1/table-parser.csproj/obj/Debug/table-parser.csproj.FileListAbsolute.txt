@@ -1,0 +1,13 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\bin\Debug\data.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\bin\Debug\TableParser.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\bin\Debug\TableParser.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\bin\Debug\TableParser.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\table-parser.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\TableParser.ParserMainForm.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\TableParser.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\table-parser.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\table-parser.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\table-parser.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\TableParser.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me #1\table-parser.csproj\obj\Debug\TableParser.pdb

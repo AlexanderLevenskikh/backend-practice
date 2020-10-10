@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\bin\Debug\ghost.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\bin\Debug\ghost.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\bin\Debug\ghost.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\obj\Debug\ghost.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\3. Листы, словари\hashes-ghosts.csproj\obj\Debug\ghost.pdb
