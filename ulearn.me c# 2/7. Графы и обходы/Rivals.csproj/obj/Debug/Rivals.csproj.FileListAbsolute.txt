@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon1.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon2.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon3.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon4.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\Rivals.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\Rivals.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\Rivals.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\obj\Debug\Rivals.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\obj\Debug\Rivals.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\obj\Debug\Rivals.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\obj\Debug\Rivals.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\obj\Debug\Rivals.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\obj\Debug\Rivals.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Rivals.csproj\obj\Debug\Rivals.pdb

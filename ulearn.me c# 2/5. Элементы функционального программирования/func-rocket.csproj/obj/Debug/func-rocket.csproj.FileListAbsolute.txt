@@ -1,0 +1,13 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\bin\Debug\images\rocket.png
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\bin\Debug\images\target.png
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\bin\Debug\func-rocket.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\bin\Debug\func-rocket.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\bin\Debug\func-rocket.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\obj\Debug\func-rocket.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\obj\Debug\func_rocket.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\obj\Debug\func-rocket.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\obj\Debug\func-rocket.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\obj\Debug\func-rocket.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\obj\Debug\func-rocket.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\5. Элементы функционального программирования\func-rocket.csproj\obj\Debug\func-rocket.pdb

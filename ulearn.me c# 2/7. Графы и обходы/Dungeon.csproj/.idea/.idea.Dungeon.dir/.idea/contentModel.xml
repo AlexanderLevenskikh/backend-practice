@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="Bfs_Should.cs" t="Include" />
+      <e p="BfsTask.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Dungeon.csproj" t="IncludeRecursive" />
+      <e p="Dungeon_Should.cs" t="Include" />
+      <e p="DungeonForm.cs" t="Include" />
+      <e p="Dungeons" t="Include">
+        <e p="BigTestDungeon.txt" t="Include" />
+        <e p="Dungeon1.txt" t="Include" />
+        <e p="Dungeon2.txt" t="Include" />
+        <e p="Dungeon3.txt" t="Include" />
+        <e p="Dungeon4.txt" t="Include" />
+      </e>
+      <e p="DungeonTask.cs" t="Include" />
+      <e p="Images" t="Include">
+        <e p="Castle.png" t="Include" />
+        <e p="Chest.png" t="Include" />
+        <e p="Grass.png" t="Include" />
+        <e p="Path.png" t="Include" />
+        <e p="Peasant.png" t="Include" />
+      </e>
+      <e p="Map.cs" t="Include" />
+      <e p="MapCell.cs" t="Include" />
+      <e p="MoveDirection.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+      </e>
+      <e p="ScaledViewPanel.cs" t="Include" />
+      <e p="ScenePainter.cs" t="Include" />
+      <e p="SinglyLinkedList.cs" t="Include" />
+      <e p="Walker.cs" t="Include" />
+    </e>
+  </component>
+</project>

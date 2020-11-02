@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2f6faf8e_002D7984_002D44ba_002D9e1b_002Df21655b3cdde/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SolveCommonCases_1x1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FDF0ECB7-70FB-415A-8488-3D5B24007E26::.NETFramework,Version=v4.7.2::GaussAlgorithm.Solver_Should.SolveCommonCases_1x1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=452a5482_002Daf17_002D4da7_002Db835_002Dcd8f378c2bf3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SolveCommonCases_2x2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FDF0ECB7-70FB-415A-8488-3D5B24007E26::.NETFramework,Version=v4.7.2::GaussAlgorithm.Solver_Should&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

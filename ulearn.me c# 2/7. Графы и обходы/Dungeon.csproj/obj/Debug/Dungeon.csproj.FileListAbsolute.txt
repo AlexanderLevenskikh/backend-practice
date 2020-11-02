@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\Dungeons\Dungeon4.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\Dungeons\Dungeon3.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\Dungeons\Dungeon2.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\Dungeons\Dungeon1.txt
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\Dungeon.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\Dungeon.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\Dungeon.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\obj\Debug\Dungeon.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\obj\Debug\Dungeon.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\obj\Debug\Dungeon.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\obj\Debug\Dungeon.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\obj\Debug\Dungeon.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\7. Графы и обходы\Dungeon.csproj\obj\Debug\Dungeon.pdb

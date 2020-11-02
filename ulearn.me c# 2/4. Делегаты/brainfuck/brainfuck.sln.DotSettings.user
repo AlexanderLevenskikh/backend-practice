@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c58f4fac_002D7c11_002D40cb_002Dbc1f_002Dce85f7ec1a22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VirtualMachineTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4952B70C-9974-4E05-AC3B-A86596A0C537::.NETFramework,Version=v4.7.2::func.brainfuck.VirtualMachineTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4952B70C-9974-4E05-AC3B-A86596A0C537::.NETFramework,Version=v4.7.2::func.brainfuck.BrainfuckBasicCommandsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4952B70C-9974-4E05-AC3B-A86596A0C537::.NETFramework,Version=v4.7.2::func.brainfuck.BrainfuckLoopCommandsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
