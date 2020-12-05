@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.pdb

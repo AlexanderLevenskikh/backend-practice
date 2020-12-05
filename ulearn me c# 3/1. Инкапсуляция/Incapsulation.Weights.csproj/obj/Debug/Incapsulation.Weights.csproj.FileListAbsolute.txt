@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\1. Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.pdb

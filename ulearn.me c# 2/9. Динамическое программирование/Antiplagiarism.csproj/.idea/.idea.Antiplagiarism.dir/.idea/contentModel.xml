@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\9. Динамическое программирование\Antiplagiarism.csproj" t="IncludeRecursive">
+      <e p="Antiplagiarism.csproj" t="IncludeRecursive" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ComparisonResult.cs" t="Include" />
+      <e p="DocumentContent.cs" t="Include" />
+      <e p="DocumentLoader.cs" t="Include" />
+      <e p="Folders.cs" t="Include" />
+      <e p="LevenshteinCalculator.cs" t="Include" />
+      <e p="LevenshteinCalculator_Tests.cs" t="Include" />
+      <e p="LongestCommonSubsequenceCalculator.cs" t="Include" />
+      <e p="LongestCommonSubsequenceCalculator_Tests.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="SuspiciousSources" t="Include">
+        <e p="1.cs" t="Include" />
+        <e p="2.cs" t="Include" />
+        <e p="3.cs" t="Include" />
+        <e p="4.cs" t="Include" />
+        <e p="5.cs" t="Include" />
+        <e p="6.cs" t="Include" />
+        <e p="7.cs" t="Include" />
+        <e p="8.cs" t="Include" />
+      </e>
+      <e p="TokenDistanceCalculator.cs" t="Include" />
+      <e p="Tokenizer.cs" t="Include" />
+      <e p="TokenType.cs" t="Include" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Geometry.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Geometry.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Geometry.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\2. Полиморфизм и наследование\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.pdb

@@ -23,11 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5d4511a-d9a6-414f-8a98-ef4a2998634b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/.idea/.idea.brainfuck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/.idea/.idea.brainfuck/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/BrainfuckBasicCommands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/BrainfuckBasicCommands.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/BrainfuckLoopCommands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/BrainfuckLoopCommands.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/VirtualMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/VirtualMachine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/obj/Debug/func-brainfuck.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../4. Делегаты/brainfuck/obj/Debug/func-brainfuck.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GaussianAlgorithm.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GaussianAlgorithm.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Графы и обходы/Rivals.csproj/.idea/.idea.Rivals.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Графы и обходы/Rivals.csproj/.idea/.idea.Rivals.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,17 +35,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6747DE9-0205-433F-84EB-50C1DA278135/4f/1aa973d7/Decimal.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6747DE9-0205-433F-84EB-50C1DA278135/4f/1aa973d7/Decimal.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -70,7 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.GaussianAlgorithm">
+  <component name="RunManager">
     <configuration name="GaussianAlgorithm" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -99,13 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602449022350</updated>
       <workItem from="1602449024706" duration="12316000" />
+      <workItem from="1604532290124" duration="1220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -117,6 +106,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

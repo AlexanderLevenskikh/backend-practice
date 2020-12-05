@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\obj\Debug\BinaryTrees.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\bin\Debug\BinaryTrees.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\bin\Debug\BinaryTrees.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\bin\Debug\BinaryTrees.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\obj\Debug\BinaryTrees.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\obj\Debug\BinaryTrees.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\BinaryTrees.csproj\obj\Debug\BinaryTrees.pdb

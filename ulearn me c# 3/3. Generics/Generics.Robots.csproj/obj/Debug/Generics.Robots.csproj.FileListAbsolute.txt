@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\bin\Debug\Generics.Robots.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\bin\Debug\Generics.Robots.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\bin\Debug\Generics.Robots.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\obj\Debug\Generics.Robots.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\obj\Debug\Generics.Robots.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\obj\Debug\Generics.Robots.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\obj\Debug\Generics.Robots.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.Robots.csproj\obj\Debug\Generics.Robots.pdb

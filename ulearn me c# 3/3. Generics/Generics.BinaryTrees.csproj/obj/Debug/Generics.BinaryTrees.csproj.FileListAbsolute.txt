@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTree.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\3. Generics\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTree.pdb

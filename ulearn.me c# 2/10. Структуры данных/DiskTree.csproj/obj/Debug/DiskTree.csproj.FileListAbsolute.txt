@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\bin\Debug\DiskTree.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\bin\Debug\DiskTree.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\bin\Debug\DiskTree.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\obj\Debug\DiskTree.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\obj\Debug\DiskTree.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\obj\Debug\DiskTree.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\obj\Debug\DiskTree.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\10. Структуры данных\DiskTree.csproj\obj\Debug\DiskTree.pdb

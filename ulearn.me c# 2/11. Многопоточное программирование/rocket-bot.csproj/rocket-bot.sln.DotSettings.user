@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a64e69e9_002Df010_002D4265_002D95aa_002Db0c611e1617e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChannelTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::23C02F85-DE76-4236-A21C-F40602BCFF1A::.NETFramework,Version=v4.7.2::rocket_bot.ChannelTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::23C02F85-DE76-4236-A21C-F40602BCFF1A::.NETFramework,Version=v4.7.2::rocket_bot.BotTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8bfcbc1_002D27df_002D4920_002Da612_002De7bb7ce9c31b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BotTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::23C02F85-DE76-4236-A21C-F40602BCFF1A::.NETFramework,Version=v4.7.2::rocket_bot.BotTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

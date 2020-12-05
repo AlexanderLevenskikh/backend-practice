@@ -1,0 +1,13 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\bin\Debug\images\flag.png
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\bin\Debug\images\rocket.png
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\bin\Debug\rocket-bot.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\bin\Debug\rocket-bot.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\bin\Debug\rocket-bot.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\obj\Debug\rocket-bot.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\obj\Debug\rocket_bot.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\obj\Debug\rocket-bot.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\obj\Debug\rocket-bot.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\obj\Debug\rocket-bot.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\obj\Debug\rocket-bot.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\11. Многопоточное программирование\rocket-bot.csproj\obj\Debug\rocket-bot.pdb

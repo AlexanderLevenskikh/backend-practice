@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alexander\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn.me c# 2\8. Жадные алгоритмы\greedy.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="Architecture" t="Include">
+        <e p="BasePerformanceTests.cs" t="Include" />
+        <e p="Drawing" t="Include">
+          <e p="GreedyWindow.cs" t="Include" />
+          <e p="GreedyWindow.resx" t="Include" />
+          <e p="images" t="Include">
+            <e p="chest-closed.png" t="Include" />
+            <e p="chest-opened.png" t="Include" />
+            <e p="climbing-1.png" t="Include" />
+            <e p="climbing-2.png" t="Include" />
+            <e p="has-won.png" t="Include" />
+            <e p="is-dead.png" t="Include" />
+            <e p="running-left-1.png" t="Include" />
+            <e p="running-left-2.png" t="Include" />
+            <e p="running-right-1.png" t="Include" />
+            <e p="running-right-2.png" t="Include" />
+            <e p="standing.png" t="Include" />
+            <e p="wall.png" t="Include" />
+          </e>
+          <e p="IPathFinder.cs" t="Include" />
+          <e p="IScenePainter.cs" t="Include" />
+          <e p="PlayerImageProvider.cs" t="Include" />
+          <e p="ScaledViewPanel.cs" t="Include" />
+          <e p="ScaledViewPanelPainter.cs" t="Include" />
+          <e p="Sprites.cs" t="Include" />
+        </e>
+        <e p="Extensions.cs" t="Include" />
+        <e p="Folders.cs" t="Include" />
+        <e p="PathWithCost.cs" t="Include" />
+        <e p="State.cs" t="Include" />
+        <e p="StateController.cs" t="Include" />
+        <e p="StatesLoader.cs" t="Include" />
+        <e p="StateTestCase.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DijkstraPathFinder.cs" t="Include" />
+      <e p="greedy.csproj" t="IncludeRecursive" />
+      <e p="GreedyPathFinder.cs" t="Include" />
+      <e p="NotGreedyPathFinder.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="states-for-students" t="Include">
+        <e p="maze_1.txt" t="Include" />
+        <e p="maze_2.txt" t="Include" />
+        <e p="maze_3.txt" t="Include" />
+        <e p="maze_4.txt" t="Include" />
+        <e p="maze_no_chests.txt" t="Include" />
+        <e p="maze_no_energy.txt" t="Include" />
+        <e p="maze_time_limit.txt" t="Include" />
+        <e p="no_walls_1.txt" t="Include" />
+        <e p="no_walls_2.txt" t="Include" />
+        <e p="no_walls_3.txt" t="Include" />
+        <e p="no_walls_time_limit.txt" t="Include" />
+        <e p="not-greedy-states" t="Include">
+          <e p="not_greedy_maze_1.txt" t="Include" />
+          <e p="not_greedy_no_walls_1.txt" t="Include" />
+          <e p="not_greedy_no_walls_2.txt" t="Include" />
+          <e p="not_greedy_no_walls_3.txt" t="Include" />
+          <e p="not_greedy_no_walls_4.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Tests" t="Include">
+        <e p="DijkstraPathFinder_Should.cs" t="Include" />
+        <e p="GreedyPathFinder_Should.cs" t="Include" />
+        <e p="GreedyTimeLimit_Tests.cs" t="Include" />
+        <e p="NotGreedyPathFinder_Should.cs" t="Include" />
+        <e p="TestsHelper.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
