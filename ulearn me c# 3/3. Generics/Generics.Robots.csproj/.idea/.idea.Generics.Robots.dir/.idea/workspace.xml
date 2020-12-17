@@ -23,8 +23,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7b4c958-25c6-460d-b4ac-8b183083b72f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../ulearn.me c# 2/6. LINQ/GaussianAlgorithm.csproj/.idea/.idea.GaussianAlgorithm.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ulearn.me c# 2/6. LINQ/GaussianAlgorithm.csproj/.idea/.idea.GaussianAlgorithm.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ulearn.me c# 2/7. Графы и обходы/Rivals.csproj/.idea/.idea.Rivals.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ulearn.me c# 2/7. Графы и обходы/Rivals.csproj/.idea/.idea.Rivals.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Data/Convertors.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Data/Photo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Data/Pixel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/DemoFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/EmptyParameters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/IFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/IParameters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/LighteningParameters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/ParameterInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/ParametrizedFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/PixelFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/TransformFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Photoshop.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Photoshop.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Window/MainWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architecture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Architecture.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1606864596197</updated>
       <workItem from="1606864598869" duration="2735000" />
+      <workItem from="1607548546456" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -99,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -124,5 +155,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606868691592" />
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog" timestamp="1607640571115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1607640571115" />
   </component>
 </project>

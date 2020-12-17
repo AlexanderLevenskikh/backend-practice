@@ -1,0 +1,9 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\bin\Debug\SRP.ControlDigit.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\bin\Debug\SRP.ControlDigit.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\bin\Debug\SRP.ControlDigit.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\8. Модульность\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.pdb

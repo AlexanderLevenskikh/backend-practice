@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50a39228_002De277_002D47fe_002Db6c1_002Da2b7a302c0f0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddressNotEqualToNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::175F7F7A-1CD9-4F99-9BDD-6D08FFAEEFD4::.NETFramework,Version=v4.7.2::Ddd.Infrastructure.ValueType_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::175F7F7A-1CD9-4F99-9BDD-6D08FFAEEFD4::.NETFramework,Version=v4.7.2::Ddd.Infrastructure.ValueType_PerformanceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::175F7F7A-1CD9-4F99-9BDD-6D08FFAEEFD4::.NETFramework,Version=v4.7.2::Ddd.Taxi.Domain.TaxiOrder_Should&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

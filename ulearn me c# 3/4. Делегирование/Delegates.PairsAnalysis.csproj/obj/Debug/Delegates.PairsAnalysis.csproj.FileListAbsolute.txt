@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.pdb

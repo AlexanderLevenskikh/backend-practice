@@ -1,0 +1,9 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\bin\Debug\Ddd.Infrastructure.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\bin\Debug\Ddd.Infrastructure.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\obj\Debug\Ddd.Taxi.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\obj\Debug\Ddd.Taxi.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\obj\Debug\Ddd.Taxi.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\obj\Debug\Ddd.Infrastructure.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\6. DDD\Ddd.Taxi.csproj\obj\Debug\Ddd.Infrastructure.pdb

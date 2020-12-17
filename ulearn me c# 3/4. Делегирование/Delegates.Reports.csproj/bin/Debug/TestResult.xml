@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Delegates.Reports.exe" fullname="C:/Users/Alexander/Desktop/Практика/Программирование/backend/ulearn me c# 3/4. Делегирование/Delegates.Reports.csproj/bin/Debug/Delegates.Reports.exe" testcasecount="4" result="Failed" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:15Z" duration="0.235975" total="4" passed="2" failed="2" inconclusive="0" skipped="0" asserts="4" random-seed="2078306673">
+  <command-line><![CDATA["C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.exe"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1005" name="Delegates.Reports.exe" fullname="C:/Users/Alexander/Desktop/Практика/Программирование/backend/ulearn me c# 3/4. Делегирование/Delegates.Reports.csproj/bin/Debug/Delegates.Reports.exe" runstate="Runnable" testcasecount="4" result="Failed" site="Child" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:15Z" duration="0.235975" total="4" passed="2" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="4">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug" machine-name="WIN-MTDU5TBBQQA" user="Alexander" user-domain="WIN-MTDU5TBBQQA" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="11104" />
+      <property name="_APPDOMAIN" value="Delegates.Reports.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1006" name="Delegates" fullname="Delegates" runstate="Runnable" testcasecount="4" result="Failed" site="Child" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:14Z" duration="0.204296" total="4" passed="2" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="4">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1007" name="Reports" fullname="Delegates.Reports" runstate="Runnable" testcasecount="4" result="Failed" site="Child" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:14Z" duration="0.173342" total="4" passed="2" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="4">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestFixture" id="1000" name="ReportMaker_should" fullname="Delegates.Reports.ReportMaker_should" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" testcasecount="4" result="Failed" site="Child" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:14Z" duration="0.142787" total="4" passed="2" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="4">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1001" name="MeanAndStdHtml" fullname="Delegates.Reports.ReportMaker_should.MeanAndStdHtml" methodname="MeanAndStdHtml" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="833246629" result="Passed" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:14Z" duration="0.013715" asserts="1" />
+          <test-case id="1003" name="MeanAndStdMarkdown" fullname="Delegates.Reports.ReportMaker_should.MeanAndStdMarkdown" methodname="MeanAndStdMarkdown" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="1498836562" result="Passed" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:14Z" duration="0.000539" asserts="1">
+            <properties>
+              <property name="Description" value="Новый тест, который нужно сделать рабочим после рефакторинга" />
+            </properties>
+          </test-case>
+          <test-case id="1004" name="MedianHtml" fullname="Delegates.Reports.ReportMaker_should.MedianHtml" methodname="MedianHtml" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="1421047598" result="Failed" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:14Z" duration="0.025927" asserts="1">
+            <properties>
+              <property name="Description" value="Новый тест, который нужно сделать рабочим после рефакторинга" />
+            </properties>
+            <failure>
+              <message><![CDATA[  Expected string length 71 but was 72. Strings differ at index 43.
+  Expected: ".../h1><ul><li><b>Temperature</b>: 8<li><b>Humidity</b>: 2</ul>"
+  But was:  ".../h1><ul><li><b>Temperature</b>: 14<li><b>Humidity</b>: 2</ul>"
+  ----------------------------------------------^
+]]></message>
+              <stack-trace><![CDATA[в Delegates.Reports.ReportMaker_should.MedianHtml() в C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\ReportMaker_should.cs:строка 61
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected string length 71 but was 72. Strings differ at index 43.
+  Expected: ".../h1><ul><li><b>Temperature</b>: 8<li><b>Humidity</b>: 2</ul>"
+  But was:  ".../h1><ul><li><b>Temperature</b>: 14<li><b>Humidity</b>: 2</ul>"
+  ----------------------------------------------^
+]]></message>
+                <stack-trace><![CDATA[в Delegates.Reports.ReportMaker_should.MedianHtml() в C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\ReportMaker_should.cs:строка 61
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1002" name="MedianMarkdown" fullname="Delegates.Reports.ReportMaker_should.MedianMarkdown" methodname="MedianMarkdown" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="643046852" result="Failed" start-time="2020-12-05 20:16:14Z" end-time="2020-12-05 20:16:14Z" duration="0.000940" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected string length 54 but was 55. Strings differ at index 31.
+  Expected: "## Median\n\n * **Temperature**: 8\n\n * **Humidity**: 2\n\n"
+  But was:  "## Median\n\n * **Temperature**: 14\n\n * **Humidity**: 2\n\n"
+  --------------------------------------------^
+]]></message>
+              <stack-trace><![CDATA[в Delegates.Reports.ReportMaker_should.MedianMarkdown() в C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\ReportMaker_should.cs:строка 45
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected string length 54 but was 55. Strings differ at index 31.
+  Expected: "## Median\n\n * **Temperature**: 8\n\n * **Humidity**: 2\n\n"
+  But was:  "## Median\n\n * **Temperature**: 14\n\n * **Humidity**: 2\n\n"
+  --------------------------------------------^
+]]></message>
+                <stack-trace><![CDATA[в Delegates.Reports.ReportMaker_should.MedianMarkdown() в C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\ReportMaker_should.cs:строка 45
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

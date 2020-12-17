@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\4. Делегирование\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.pdb

@@ -81,7 +81,7 @@ namespace Generics.Robots
         }
     }
     
-    public class Robot
+    public static class Robot
     {
         public static Robot<T> Create<T>(IRobotAI<T> ai, IDevice<T> device) => new Robot<T>(ai, device);
     }
