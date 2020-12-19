@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\bin\Debug\Streams.Resources.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\bin\Debug\Streams.Resources.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\bin\Debug\Streams.Resources.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\obj\Debug\Streams.Resources.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\obj\Debug\Streams.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\obj\Debug\Streams.Resources.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\obj\Debug\Streams.Resources.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\11. Работа с файлами\Streams.Resources.csproj\obj\Debug\Streams.Resources.pdb

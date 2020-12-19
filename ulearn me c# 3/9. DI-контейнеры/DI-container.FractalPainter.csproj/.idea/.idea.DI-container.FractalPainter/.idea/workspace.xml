@@ -22,40 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb413c49-6fa8-4120-a645-a935f88e673a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/.idea/.idea.Photoshop/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Data/Convertors.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Data/Photo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Data/Pixel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/DemoFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/EmptyParameters.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/IFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/IParameters.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/LighteningParameters.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/ParameterInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/ParametrizedFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/PixelFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Filters/TransformFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Main.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Photoshop.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Photoshop.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Tasks.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/Window/MainWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Инкапсуляция/_Photoshop/cat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3. Generics/Generics.Robots.csproj/.idea/.idea.Generics.Robots.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3. Generics/Generics.Robots.csproj/.idea/.idea.Generics.Robots.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3. Generics/Generics.Robots.csproj/Architecture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../3. Generics/Generics.Robots.csproj/Architecture.cs" afterDir="false" />
-    </list>
+    <list default="true" id="fb413c49-6fa8-4120-a645-a935f88e673a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +66,7 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2999309" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -134,7 +102,7 @@
       <workItem from="1608071460090" duration="2239000" />
       <workItem from="1608126220136" duration="5472000" />
       <workItem from="1608169594429" duration="2119000" />
-      <workItem from="1608209107630" duration="8014000" />
+      <workItem from="1608209107630" duration="8755000" />
     </task>
     <servers />
   </component>
@@ -163,86 +131,86 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="431" height="464" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1608241312228" />
-    <state width="1478" height="153" key="GridCell.Tab.0.bottom" timestamp="1608245956035">
+    <state width="1478" height="199" key="GridCell.Tab.0.bottom" timestamp="1608289327841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608245956035" />
-    <state width="1478" height="153" key="GridCell.Tab.0.center" timestamp="1608245956035">
+    <state width="1478" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608289327841" />
+    <state width="1478" height="199" key="GridCell.Tab.0.center" timestamp="1608289327841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608245956035" />
-    <state width="1478" height="153" key="GridCell.Tab.0.left" timestamp="1608245956035">
+    <state width="1478" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608289327841" />
+    <state width="1478" height="199" key="GridCell.Tab.0.left" timestamp="1608289327841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608245956035" />
-    <state width="1478" height="153" key="GridCell.Tab.0.right" timestamp="1608245956035">
+    <state width="1478" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608289327841" />
+    <state width="1478" height="199" key="GridCell.Tab.0.right" timestamp="1608289327841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608245956035" />
-    <state width="1478" height="199" key="GridCell.Tab.1.bottom" timestamp="1608241372606">
+    <state width="1478" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608289327841" />
+    <state width="1478" height="199" key="GridCell.Tab.1.bottom" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608241372606" />
-    <state width="1478" height="199" key="GridCell.Tab.1.center" timestamp="1608241372606">
+    <state width="1478" height="199" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.1.center" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608241372606" />
-    <state width="1478" height="199" key="GridCell.Tab.1.left" timestamp="1608241372606">
+    <state width="1478" height="199" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.1.left" timestamp="1608289327841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608241372606" />
-    <state width="1478" height="199" key="GridCell.Tab.1.right" timestamp="1608241372606">
+    <state width="1478" height="199" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608289327841" />
+    <state width="1478" height="199" key="GridCell.Tab.1.right" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608241372606" />
-    <state width="1478" height="199" key="GridCell.Tab.2.bottom" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.2.bottom" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.2.center" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.2.center" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.2.left" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.2.left" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.2.right" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.2.right" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.3.bottom" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.3.bottom" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.3.center" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.3.center" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.3.left" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.3.left" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.3.right" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.3.right" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.4.bottom" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.4.bottom" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.4.center" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.4.center" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.4.left" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.4.left" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
-    <state width="1478" height="199" key="GridCell.Tab.4.right" timestamp="1608241372607">
+    <state width="1478" height="199" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
+    <state width="1478" height="199" key="GridCell.Tab.4.right" timestamp="1608289327842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="199" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1608241372607" />
+    <state width="1478" height="199" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1608289327842" />
     <state x="479" y="91" key="RiderGenerateDialog" timestamp="1608170351218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\bin\Debug\Memory.API.exe.config
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\bin\Debug\Memory.API.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\bin\Debug\Memory.API.pdb
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\bin\Debug\nunitlite.dll
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\obj\Debug\Memory.API.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\obj\Debug\Memory.API.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\obj\Debug\Memory.API.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\obj\Debug\Memory.API.exe
+C:\Users\Alexander\Desktop\Практика\Программирование\backend\ulearn me c# 3\10. Управление ресурсами\Memory.API.csproj\obj\Debug\Memory.API.pdb
